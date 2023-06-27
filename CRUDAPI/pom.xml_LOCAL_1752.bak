@@ -2,19 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
 	--Duy đã thay đổi
-
          dev1 đã merge code lên nhánh master
-
 		 Thang đã tahy đổi
-
+<<<<<<< HEAD
 		 Duy đã sửa code
-
-		 Thang đã tahy đổi
-
+=======
 	develop thêm code
-
+>>>>>>> c27ef7d3ba1a084f696aa37bf183ab3be7fcb5be
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
