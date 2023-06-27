@@ -5,6 +5,11 @@
 	--Duy đã thay đổi
          dev1 đã merge code lên nhánh master
 		 Thang đã tahy đổi
+<<<<<<< HEAD
+		 Duy đã sửa code
+=======
+	develop thêm code
+>>>>>>> c27ef7d3ba1a084f696aa37bf183ab3be7fcb5be
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
